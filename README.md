@@ -42,7 +42,7 @@ Você pode escolher livremente:
 
 ## 🔗 API a ser utilizada
 
-Utilize a API pública abaixo:
+Utilize a API pública:
 https://jsonplaceholder.typicode.com/users
 
 ### Extra (opcional):
